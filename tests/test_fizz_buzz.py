@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import unittest
-from fizzbuzz import fizz_buzz
+from modules.fizz_buzz import fizz_buzz
 
 
 class TestFizzBuzz(unittest.TestCase):
